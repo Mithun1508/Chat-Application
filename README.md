@@ -34,7 +34,9 @@ Ws is pretty simple to use, blazing fast and the code we are going to write will
   
   3)  Then, open a couple of browser tabs or even two different browsers, point them at http://localhost:8080, and start chatting:
   
-  4) Now, we want to see what happens when we try to scale our application by launching multiple instances. Let’s try to do that. Let’s start another server on another port:  node index.js 8081
+  4) Now, we want to see what happens when we try to scale our application by launching multiple instances. Let’s try to do that. Let’s start another server on another port:  node index.js 8081 
+  
+  And Now Two folks can chat/Interact with each Other. That's it very Simple and Many many Thanks to the Author I came across this blog and I really enjoyed implementing it !!
   
   Final Chat Application looks this :
   
